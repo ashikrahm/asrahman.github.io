@@ -64,3 +64,27 @@ img{
     display: none;
 
 }
+@media only screen and (max-width: 600px) {
+    #result{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    #result{
+        grid-template-columns: 1fr;
+    }
+    input{
+        height: 100%;
+        border: none;
+        outline: none;
+        background: transparent;
+        padding: 0 0 0 20px;
+
+        max-width: 185px;
+    }
+    form{
+    
+        width: 278px;
+    }
+}
