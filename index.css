@@ -74,16 +74,10 @@ img{
     #result{
         grid-template-columns: 1fr;
     }
-     form{
-    
-        width: 278px;
+  form{
+        width: 250px;
     }
-    input{
-
-        width:190px;
-        
+    form input{
+        width: 170px;
     }
-    form button{
-        
-   width:80px
 }
