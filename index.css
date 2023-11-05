@@ -71,6 +71,7 @@ img{
     }
      form{
         width: 240px;
+         display:flex;
     }
     form input{
         width: 160px;
