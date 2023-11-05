@@ -51,6 +51,9 @@ img{
     width: 100%;
     height: 300px;
     object-fit: cover;
+    background-size:cover;
+    background-position:center;
+    
 }
 #show-more{
     background-color: #ff3929;
