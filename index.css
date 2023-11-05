@@ -86,10 +86,5 @@ img{
         grid-template-columns: 1fr;
          margin: 30px auto 0px;
     }
-  form{
-        width: 240px;
-    }
-    form input{
-        width: 160px;
-    }
+  
 }
